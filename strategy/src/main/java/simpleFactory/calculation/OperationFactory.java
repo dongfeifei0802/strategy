@@ -26,6 +26,7 @@ public static void main(String[] args) {
 	op.set_numberA(11);
 	op.set_numberB(2);
 
-	System.out.println(op.getResult());	
+	System.out.println(op.getResult());
+	System.out.println("00000000000000");
 }
 }
