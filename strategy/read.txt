@@ -1,4 +1,4 @@
-I'm hungry now
+s1 say : I'm hungry now
 I'm hungry too
 I'll be off duty
 But I have to leave work at 6
