@@ -1,5 +1,5 @@
 s1 say : I'm hungry now
-s2 say : I'm hungry now
-I'm hungry too
-I'll be off duty
-But I have to leave work at 6
+s2 say : I'm hungry too
+s1 say :I'll be off duty
+s2 say : But I have to leave work at 6
+end;
